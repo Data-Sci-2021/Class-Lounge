@@ -1,4 +1,8 @@
 <<<<<<< HEAD
+
+Link to README.md https://github.com/Data-Sci-2021/Linguistic-reflections-of-perceived-controllability/blob/main/README.md
+
+
 Angela
 
 I can totally relate to your concerns about sharing the data! I just learned from a librarian that putting a dataset into a repository safely is a project itself. I liked that you did the transcription. There are so many software that can do automated transcription that might speed up your transcription process but I am not sure if they have the option for Spanish. You can check it out to see if it is helpful. 
